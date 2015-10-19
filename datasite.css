@@ -1,0 +1,88 @@
+h1, h2{
+    text-align: center;
+    color: #E60000;
+    font-family: Verdana;
+}
+
+p{
+    font-family: Arial;
+}
+
+.headdiv {
+    background-color: black;
+    background: rgba(0, 0, 0, 0.4);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+#body{
+    background-color: black;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+#footer{
+    background-color: black;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+#chart_div{
+    padding-left: 20px;
+    padding-right: 20px;
+    border: transparent;
+    align-content: center;
+    margin-left: 100px;
+}
+
+#header{
+    margin-left: 50px;
+    margin-right: 50px;
+    border: transparent;
+}
+
+#footer{
+    margin-top: 20px;
+}
+
+p{
+    color: white;
+}
+
+body{
+    background-image: url(http://all4desktop.com/data_images/original/4230979-fishing-at-dusk.jpg);
+}
+
+hr{
+    background-color: black;
+}
+
+a{
+    font-family: Arial;
+}
+a:link{
+    color: darkred;
+    background-color: transparent;
+}
+a:visited{
+    color: #575756;
+    background-color: transparent;
+}
+a:hover{
+    color: #ff0705;
+    background: transparent;
+}
+a:active{
+    color: #ff0705;
+    background-color: transparent;
+}
