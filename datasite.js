@@ -99,3 +99,10 @@ function drawChart() {
     drawMaterialChart();
 
 }
+
+function clicker(){
+    document.getElementById("picture1").style.border = ("solid");
+    document.getElementById("picture1").style.borderColor = ("#FF3333");
+    document.getElementById("test").innerHTML = ("Watch this change!");
+
+}
