@@ -60,7 +60,7 @@ p{
 }
 
 body{
-    background-image: url(http://hdw.datawallpaper.com/nature/colors-of-dawn-desktop-background-493779.jpg);
+    background-image: url(https://wallpaperscraft.com/image/surface_gray_spot_light_texture_50876_1920x1080.jpg);
 }
 
 hr{
@@ -85,4 +85,8 @@ a:hover{
 a:active{
     color: #ff0705;
     background-color: transparent;
+}
+
+img{
+    width: 200px;
 }

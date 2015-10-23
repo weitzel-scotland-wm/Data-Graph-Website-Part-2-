@@ -1,15 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link href="datasite.css" type="text/css" rel="stylesheet">
     <script src="datasite.js"></script>
+    <script src="jquery-2.1.4.min.js"></script>
     <meta charset="UTF-8">
     <title></title>
 </head>
 <body>
 <div id="container">
-    <button onclick="clicker()">Click this</button>
-    <img src="pics/picture1.jpeg" width=200 id="picture1" onclick= "clicker()">
-    <p id="test">Watch this change.</p>
+    <table align="center">
+        <tr>
+            <td><img src="pics/picture1.png" id="picture1" onclick="clicker1()"></td>
+            <td><img src="pics/picture2.jpg" id="picture2" onclick="clicker2()"></td>
+            <td><img src="pics/picture3.png" id="picture3" onclick="clicker3()"></td>
+        </tr>
+        <tr>
+            <td><img src="pics/picture4.jpg" id="picture4" onclick="clicker4()"></td>
+            <td><img src="pics/picture5.jpg" id="picture5" onclick="clicker5()"></td>
+            <td><img src="pics/picture6.jpg" id="picture6" onclick="clicker6()"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
 </div>
 </body>
 </html>

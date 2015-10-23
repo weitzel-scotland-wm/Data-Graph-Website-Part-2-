@@ -100,9 +100,15 @@ function drawChart() {
 
 }
 
-function clicker(){
-    document.getElementById("picture1").style.border = ("solid");
-    document.getElementById("picture1").style.borderColor = ("#FF3333");
-    document.getElementById("test").innerHTML = ("Watch this change!");
-
+function clicker1() {
+    document.getElementById("picture1").src = ("pics/product1.jpg")
 }
+function clicker2() {
+    document.getElementById("picture2").src = ("pics/product2.jpg")
+}
+function clicker3() {
+    document.getElementById("picture3").src = ("pics/product3.jpg")
+}
+
+
+
