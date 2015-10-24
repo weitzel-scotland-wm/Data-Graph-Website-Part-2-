@@ -39,7 +39,7 @@ function drawChart() {
         chart: {
             title: 'The Change from Physical to Digital'
         },
-        width: 1200,
+        width: 800,
         height: 500,
         series: {
             // Gives each series an axis name that matches the Y-axis below.
@@ -101,13 +101,31 @@ function drawChart() {
 }
 
 function clicker1() {
-    document.getElementById("picture1").src = ("pics/product1.jpg")
+    document.getElementById("picture1").src = ("pics/product9.jpg")
 }
 function clicker2() {
-    document.getElementById("picture2").src = ("pics/product2.jpg")
+    document.getElementById("picture2").src = ("pics/product8.jpg")
 }
 function clicker3() {
-    document.getElementById("picture3").src = ("pics/product3.jpg")
+    document.getElementById("picture3").src = ("pics/product5.jpg")
+}
+function clicker4() {
+    document.getElementById("picture4").src = ("pics/product3.jpg")
+}
+function clicker5() {
+    document.getElementById("picture5").src = ("pics/product1.jpg")
+}
+function clicker6() {
+    document.getElementById("picture6").src = ("pics/product2.jpg")
+}
+function clicker7() {
+    document.getElementById("picture7").src = ("pics/product7.jpg")
+}
+function clicker8() {
+    document.getElementById("picture8").src = ("pics/product4.jpg")
+}
+function clicker9() {
+    document.getElementById("picture9").src = ("pics/product6.png")
 }
 
 
