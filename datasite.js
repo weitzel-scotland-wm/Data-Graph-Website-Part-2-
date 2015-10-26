@@ -128,5 +128,42 @@ function clicker9() {
     document.getElementById("picture9").src = ("pics/product6.png")
 }
 
+function d1(){
+    var changeDescription = prompt("What would you like the description to say?");
+    document.getElementById("p1").innerHTML = changeDescription
+}
+function d2(){
+    var changeDescription = prompt("What would you like the description to say?");
+    document.getElementById("p2").innerHTML = changeDescription
+}
+function d3(){
+    var changeDescription = prompt("What would you like the description to say?");
+    document.getElementById("p3").innerHTML = changeDescription
+}
+function d4(){
+    var changeDescription = prompt("What would you like the description to say?");
+    document.getElementById("p4").innerHTML = changeDescription
+}
+function d5(){
+    var changeDescription = prompt("What would you like the description to say?");
+    document.getElementById("p5").innerHTML = changeDescription
+}
+function d6(){
+    var changeDescription = prompt("What would you like the description to say?");
+    document.getElementById("p6").innerHTML = changeDescription
+}
+function d7(){
+    var changeDescription = prompt("What would you like the description to say?");
+    document.getElementById("p7").innerHTML = changeDescription
+}
+function d8(){
+    var changeDescription = prompt("What would you like the description to say?");
+    document.getElementById("p8").innerHTML = changeDescription
+}
+function d9(){
+    var changeDescription = prompt("What would you like the description to say?");
+    document.getElementById("p9").innerHTML = changeDescription
+}
+
 
 
